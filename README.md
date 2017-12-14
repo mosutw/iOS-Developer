@@ -19,7 +19,7 @@ A curated list of iOS objective-C ecosystem.
 期待大家和我们一起共同维护，同时也期望大家随时能提出宝贵的意见（直接提交issues即可）。请广大网友只按照目录结构（即使目录结构有问题）添加三方库，并提交pull request。目录问题大家提出issues后楼主会及时更改的。
 
 ###  目录
-- [完整App@](#完整APP)
+- [完整APP@](#完整APP)
 - [框架@](#框架)
   - [react@](#react)
   - [framework@](#framework)
@@ -182,7 +182,6 @@ A curated list of iOS objective-C ecosystem.
 - [前端@](#前端)
 - [后台@](#后台)
 
-#### 具体内容 =============================
 
 #### 完整APP@
 
